@@ -8,6 +8,4 @@
 Contact | Information
 --------|------
 Name | David Kuehne
-Email | dwkuehne@tstc.edu
-Company | Texas State Technical College
 Website | [GitHub Profile](https://dwkuehne.github.io/)
